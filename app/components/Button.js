@@ -1,4 +1,4 @@
-import { Text, View } from 'react-native';
+import { StyleSheet, Text, View } from 'react-native';
 import React from 'react';
 
 export default function Button() {
@@ -8,3 +8,9 @@ export default function Button() {
     </View>
   );
 }
+
+const styles = StyleSheet.create({
+  container: {
+    color: '#737437'
+  },
+});
