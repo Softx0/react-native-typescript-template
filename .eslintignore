@@ -48,9 +48,11 @@ __tests__/App.test.tsx
 .prettierrc.js
 .watchmanconfig
 .yarn/releases/yarn-3.6.4.cjs
-.yarnrc.ym
 **/.yarn/
 **/.vscode/
 **/.bundle/
 App.tsx
 commitlint.config.js
+.yarnrc.yml
+
+

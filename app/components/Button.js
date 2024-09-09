@@ -3,7 +3,7 @@ import React from 'react';
 
 export default function Button() {
   return (
-    <View>
+    <View style={styles.container}>
       <Text>Button</Text>
     </View>
   );
@@ -11,6 +11,6 @@ export default function Button() {
 
 const styles = StyleSheet.create({
   container: {
-    color: '#737437'
+    backgroundColor: '#737437',
   },
 });
