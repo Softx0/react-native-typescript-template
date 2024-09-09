@@ -1,11 +1,7 @@
 {
   "name": "react-native-typescript-template-softx0",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "React Native Custom Template created by Softx0 for my own projects and share with the community",
-  "files": [
-    "template",
-    "template.config.js"
-  ],
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",

@@ -18,6 +18,7 @@ ios/IntermediariosApp/Images.xcassets/LogoWhite.imageset/Contents.json
 .env.dev
 .env.production
 .env.staging
+/vendor/bundle/
 
 .eslintrc.js
 .flowconfig

@@ -39,7 +39,7 @@ README.md
 yarn.lock
 devcontainer.json
 
-vendor/
+/vendor/bundle/
 jest.config.js
 tsconfig.json
 
