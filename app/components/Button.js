@@ -1,5 +1,6 @@
-import { StyleSheet, Text, View } from 'react-native';
+import { Text, View } from 'react-native';
 import React from 'react';
+import { createStyleSheet } from 'react-native-unistyles';
 
 export default function Button() {
   return (
@@ -9,7 +10,7 @@ export default function Button() {
   );
 }
 
-const styles = StyleSheet.create({
+const styles = createStyleSheet({
   container: {
     backgroundColor: '#737437',
   },
