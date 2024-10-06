@@ -1,6 +1,6 @@
 {
   "name": "react-native-typescript-template-softx0",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "private": true,
   "description": "React Native Custom Template created by Softx0 for my own projects and share with the community",
   "scripts": {
@@ -39,6 +39,7 @@
     "@types/react-test-renderer": "^18.0.0",
     "babel-jest": "^29.6.3",
     "eslint": "^8.19.0",
+    "eslint-config-airbnb": "^19.0.4",
     "eslint-plugin-sonarjs": "^2.0.3",
     "flow-bin": "^0.247.1",
     "husky": "^9.1.6",
@@ -49,6 +50,11 @@
     "react-native-svg-transformer": "^1.5.0",
     "react-test-renderer": "18.3.1",
     "typescript": "5.0.4"
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx}": [
+      "yarn run lint-and-prettier"
+    ]
   },
   "engines": {
     "node": ">=18"
