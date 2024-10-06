@@ -14,7 +14,7 @@ if linkage != nil
   use_frameworks! :linkage => linkage.to_sym
 end
 
-target 'reactNativeReadyToProject' do
+target 'reactNativeTemplateSoftx0' do
   config = use_native_modules!
 
   use_react_native!(
@@ -23,7 +23,7 @@ target 'reactNativeReadyToProject' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
-  target 'reactNativeReadyToProjectTests' do
+  target 'reactNativeTemplateSoftx0Tests' do
     inherit! :complete
     # Pods for testing
   end

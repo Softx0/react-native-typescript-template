@@ -1,18 +1,14 @@
 module.exports = {
   root: true,
-  settings: {
-    react: {
-      version: 'detect',
-    },
-  },
   extends: [
+    '@react-native',
     'eslint:recommended',
     'plugin:react/recommended',
     'airbnb/hooks',
     'plugin:sonarjs/recommended-legacy',
     'prettier',
     '@react-native-community',
-    'plugin:@typescript-eslint/recommended'
+    'plugin:@typescript-eslint/recommended',
   ],
   parser: '@babel/eslint-parser',
   ignorePatterns: [

@@ -54,5 +54,3 @@ __tests__/App.test.tsx
 App.tsx
 commitlint.config.js
 .yarnrc.yml
-
-

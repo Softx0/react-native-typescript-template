@@ -77,9 +77,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.reactnativereadytoproject"
+    namespace "com.reactnativetemplatesoftx0"
     defaultConfig {
-        applicationId "com.reactnativereadytoproject"
+        applicationId "com.reactnativetemplatesoftx0"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

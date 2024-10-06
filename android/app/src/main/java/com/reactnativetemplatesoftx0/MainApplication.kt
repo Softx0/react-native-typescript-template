@@ -1,4 +1,4 @@
-package com.reactnativereadytoproject
+package com.reactnativetemplatesoftx0
 
 import android.app.Application
 import com.facebook.react.PackageList

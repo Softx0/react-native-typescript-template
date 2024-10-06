@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "reactNativeReadyToProject.app"
-               BlueprintName = "reactNativeReadyToProject"
-               ReferencedContainer = "container:reactNativeReadyToProject.xcodeproj">
+               BuildableName = "reactNativeTemplateSoftx0.app"
+               BlueprintName = "reactNativeTemplateSoftx0"
+               ReferencedContainer = "container:reactNativeTemplateSoftx0.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "reactNativeReadyToProjectTests.xctest"
-               BlueprintName = "reactNativeReadyToProjectTests"
-               ReferencedContainer = "container:reactNativeReadyToProject.xcodeproj">
+               BuildableName = "reactNativeTemplateSoftx0Tests.xctest"
+               BlueprintName = "reactNativeTemplateSoftx0Tests"
+               ReferencedContainer = "container:reactNativeTemplateSoftx0.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "reactNativeReadyToProject.app"
-            BlueprintName = "reactNativeReadyToProject"
-            ReferencedContainer = "container:reactNativeReadyToProject.xcodeproj">
+            BuildableName = "reactNativeTemplateSoftx0.app"
+            BlueprintName = "reactNativeTemplateSoftx0"
+            ReferencedContainer = "container:reactNativeTemplateSoftx0.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "reactNativeReadyToProject.app"
-            BlueprintName = "reactNativeReadyToProject"
-            ReferencedContainer = "container:reactNativeReadyToProject.xcodeproj">
+            BuildableName = "reactNativeTemplateSoftx0.app"
+            BlueprintName = "reactNativeTemplateSoftx0"
+            ReferencedContainer = "container:reactNativeTemplateSoftx0.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
